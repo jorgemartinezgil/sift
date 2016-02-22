@@ -1,0 +1,1415 @@
+Depth: 0
+Children: 0
+Brothers: 6
+Brothers on the left: 0
+Same level: 6
+:SLR
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 6
+Brothers on the left: 1
+Same level: 6
+:Money
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 6
+Brothers on the left: 2
+Same level: 6
+:BodyWithNonAdjustableShutterSpeed
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 6
+Brothers on the left: 3
+Same level: 6
+:Range
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 6
+Brothers on the left: 4
+Same level: 6
+:Window
+------------------------------
+Depth: 0
+Children: 3
+Brothers: 6
+Brothers on the left: 5
+Same level: 6
+:PurchaseableItem
+------------------------------
+Depth: 1
+Children: 2
+Brothers: 2
+Brothers on the left: 0
+Same level: 2
+:Camera
+------------------------------
+Depth: 2
+Children: 0
+Brothers: 1
+Brothers on the left: 0
+Same level: 1
+:Digital
+------------------------------
+Depth: 2
+Children: 0
+Brothers: 1
+Brothers on the left: 1
+Same level: 1
+:Large-Format
+------------------------------
+Depth: 1
+Children: 0
+Brothers: 2
+Brothers on the left: 1
+Same level: 2
+:Lens
+------------------------------
+Depth: 1
+Children: 0
+Brothers: 2
+Brothers on the left: 2
+Same level: 2
+:Body
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 6
+Brothers on the left: 6
+Same level: 6
+:Viewer
+------------------------------
+Total time 0.015 seconds
+Depth: 0
+Children: 4
+Brothers: 31
+Brothers on the left: 0
+Same level: 31
+:ConsumableThing
+------------------------------
+Depth: 1
+Children: 0
+Brothers: 3
+Brothers on the left: 0
+Same level: 8
+:Meal
+------------------------------
+Depth: 1
+Children: 0
+Brothers: 3
+Brothers on the left: 1
+Same level: 8
+:MealCourse
+------------------------------
+Depth: 1
+Children: 2
+Brothers: 3
+Brothers on the left: 2
+Same level: 8
+:PotableLiquid
+------------------------------
+Depth: 2
+Children: 0
+Brothers: 1
+Brothers on the left: 0
+Same level: 12
+:Juice
+------------------------------
+Depth: 2
+Children: 3
+Brothers: 1
+Brothers on the left: 1
+Same level: 12
+vin:Wine
+------------------------------
+Depth: 3
+Children: 0
+Brothers: 2
+Brothers on the left: 0
+Same level: 13
+vin:EarlyHarvest
+------------------------------
+Depth: 3
+Children: 1
+Brothers: 2
+Brothers on the left: 1
+Same level: 13
+vin:DessertWine
+------------------------------
+Depth: 4
+Children: 0
+Brothers: 0
+Brothers on the left: 0
+Same level: 13
+vin:SweetRiesling
+------------------------------
+Depth: 3
+Children: 1
+Brothers: 2
+Brothers on the left: 2
+Same level: 13
+vin:LateHarvest
+------------------------------
+Depth: 4
+Children: 0
+Brothers: 0
+Brothers on the left: 0
+Same level: 13
+vin:Sauterne
+------------------------------
+Depth: 1
+Children: 8
+Brothers: 3
+Brothers on the left: 3
+Same level: 8
+:EdibleThing
+------------------------------
+Depth: 2
+Children: 1
+Brothers: 7
+Brothers on the left: 0
+Same level: 12
+:SweetFruit
+------------------------------
+Depth: 3
+Children: 2
+Brothers: 0
+Brothers on the left: 0
+Same level: 13
+:Grape
+------------------------------
+Depth: 4
+Children: 0
+Brothers: 1
+Brothers on the left: 0
+Same level: 13
+:EatingGrape
+------------------------------
+Depth: 4
+Children: 0
+Brothers: 1
+Brothers on the left: 1
+Same level: 13
+vin:WineGrape
+------------------------------
+Depth: 2
+Children: 2
+Brothers: 7
+Brothers on the left: 1
+Same level: 12
+:Dessert
+------------------------------
+Depth: 3
+Children: 0
+Brothers: 1
+Brothers on the left: 0
+Same level: 13
+:CheeseNutsDessert
+------------------------------
+Depth: 3
+Children: 0
+Brothers: 1
+Brothers on the left: 1
+Same level: 13
+:SweetDessert
+------------------------------
+Depth: 2
+Children: 0
+Brothers: 7
+Brothers on the left: 2
+Same level: 12
+:OtherTomatoBasedFood
+------------------------------
+Depth: 2
+Children: 0
+Brothers: 7
+Brothers on the left: 3
+Same level: 12
+:NonSweetFruit
+------------------------------
+Depth: 2
+Children: 2
+Brothers: 7
+Brothers on the left: 4
+Same level: 12
+:Fowl
+------------------------------
+Depth: 3
+Children: 0
+Brothers: 1
+Brothers on the left: 0
+Same level: 13
+:DarkMeatFowl
+------------------------------
+Depth: 3
+Children: 0
+Brothers: 1
+Brothers on the left: 1
+Same level: 13
+:LightMeatFowl
+------------------------------
+Depth: 2
+Children: 2
+Brothers: 7
+Brothers on the left: 5
+Same level: 12
+:Pasta
+------------------------------
+Depth: 3
+Children: 2
+Brothers: 1
+Brothers on the left: 0
+Same level: 13
+:PastaWithRedSauce
+------------------------------
+Depth: 4
+Children: 0
+Brothers: 1
+Brothers on the left: 0
+Same level: 13
+:PastaWithNonSpicyRedSauce
+------------------------------
+Depth: 4
+Children: 0
+Brothers: 1
+Brothers on the left: 1
+Same level: 13
+:PastaWithSpicyRedSauce
+------------------------------
+Depth: 3
+Children: 2
+Brothers: 1
+Brothers on the left: 1
+Same level: 13
+:PastaWithWhiteSauce
+------------------------------
+Depth: 4
+Children: 0
+Brothers: 1
+Brothers on the left: 0
+Same level: 13
+:PastaWithHeavyCreamSauce
+------------------------------
+Depth: 4
+Children: 0
+Brothers: 1
+Brothers on the left: 1
+Same level: 13
+:PastaWithLightCreamSauce
+------------------------------
+Depth: 2
+Children: 2
+Brothers: 7
+Brothers on the left: 6
+Same level: 12
+:Meat
+------------------------------
+Depth: 3
+Children: 2
+Brothers: 1
+Brothers on the left: 0
+Same level: 13
+:RedMeat
+------------------------------
+Depth: 4
+Children: 0
+Brothers: 1
+Brothers on the left: 0
+Same level: 13
+:SpicyRedMeat
+------------------------------
+Depth: 4
+Children: 0
+Brothers: 1
+Brothers on the left: 1
+Same level: 13
+:NonSpicyRedMeat
+------------------------------
+Depth: 3
+Children: 0
+Brothers: 1
+Brothers on the left: 1
+Same level: 13
+:NonRedMeat
+------------------------------
+Depth: 2
+Children: 2
+Brothers: 7
+Brothers on the left: 7
+Same level: 12
+:Seafood
+------------------------------
+Depth: 3
+Children: 2
+Brothers: 1
+Brothers on the left: 0
+Same level: 13
+:Shellfish
+------------------------------
+Depth: 4
+Children: 0
+Brothers: 1
+Brothers on the left: 0
+Same level: 13
+:NonOysterShellfish
+------------------------------
+Depth: 4
+Children: 0
+Brothers: 1
+Brothers on the left: 1
+Same level: 13
+:OysterShellfish
+------------------------------
+Depth: 3
+Children: 2
+Brothers: 1
+Brothers on the left: 1
+Same level: 13
+:Fish
+------------------------------
+Depth: 4
+Children: 0
+Brothers: 1
+Brothers on the left: 0
+Same level: 13
+:BlandFish
+------------------------------
+Depth: 4
+Children: 0
+Brothers: 1
+Brothers on the left: 1
+Same level: 13
+:NonBlandFish
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 1
+Same level: 31
+:Fruit
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 2
+Same level: 31
+:NonConsumableThing
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 3
+Same level: 31
+:Wine
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 4
+Same level: 31
+vin:CaliforniaWine
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 5
+Same level: 31
+vin:AmericanWine
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 6
+Same level: 31
+vin:Winery
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 7
+Same level: 31
+vin:GermanWine
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 8
+Same level: 31
+vin:VintageYear
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 9
+Same level: 31
+vin:Region
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 10
+Same level: 31
+vin:TableWine
+------------------------------
+Depth: 0
+Children: 1
+Brothers: 31
+Brothers on the left: 11
+Same level: 31
+vin:RedWine
+------------------------------
+Depth: 1
+Children: 0
+Brothers: 0
+Brothers on the left: 0
+Same level: 8
+vin:Port
+------------------------------
+Depth: 0
+Children: 1
+Brothers: 31
+Brothers on the left: 12
+Same level: 31
+vin:Bordeaux
+------------------------------
+Depth: 1
+Children: 0
+Brothers: 0
+Brothers on the left: 0
+Same level: 8
+vin:Sauterne
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 13
+Same level: 31
+vin:AlsatianWine
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 14
+Same level: 31
+vin:DryWine
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 15
+Same level: 31
+vin:WhiteWine
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 16
+Same level: 31
+vin:SauvignonBlanc
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 17
+Same level: 31
+vin:WhiteTableWine
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 18
+Same level: 31
+vin:Semillon
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 19
+Same level: 31
+vin:WhiteNonSweetWine
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 20
+Same level: 31
+vin:RedTableWine
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 21
+Same level: 31
+vin:RoseWine
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 22
+Same level: 31
+vin:FullBodiedWine
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 23
+Same level: 31
+vin:Gamay
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 24
+Same level: 31
+vin:Loire
+------------------------------
+Depth: 0
+Children: 1
+Brothers: 31
+Brothers on the left: 25
+Same level: 31
+vin:ItalianWine
+------------------------------
+Depth: 1
+Children: 0
+Brothers: 0
+Brothers on the left: 0
+Same level: 8
+vin:Chianti
+------------------------------
+Depth: 0
+Children: 2
+Brothers: 31
+Brothers on the left: 26
+Same level: 31
+vin:WineDescriptor
+------------------------------
+Depth: 1
+Children: 0
+Brothers: 1
+Brothers on the left: 0
+Same level: 8
+vin:WineColor
+------------------------------
+Depth: 1
+Children: 3
+Brothers: 1
+Brothers on the left: 1
+Same level: 8
+vin:WineTaste
+------------------------------
+Depth: 2
+Children: 0
+Brothers: 2
+Brothers on the left: 0
+Same level: 12
+vin:WineBody
+------------------------------
+Depth: 2
+Children: 0
+Brothers: 2
+Brothers on the left: 1
+Same level: 12
+vin:WineFlavor
+------------------------------
+Depth: 2
+Children: 0
+Brothers: 2
+Brothers on the left: 2
+Same level: 12
+vin:WineSugar
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 27
+Same level: 31
+vin:FrenchWine
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 28
+Same level: 31
+vin:DryRedWine
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 29
+Same level: 31
+vin:SweetWine
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 30
+Same level: 31
+vin:TexasWine
+------------------------------
+Depth: 0
+Children: 0
+Brothers: 31
+Brothers on the left: 31
+Same level: 31
+vin:DryWhiteWine
+------------------------------
+:SLR vs :ConsumableThing -> 0.4
+:SLR vs :Meal -> 0.4
+:SLR vs :MealCourse -> 0.2
+:SLR vs :Juice -> 0.4
+:SLR vs vin:EarlyHarvest -> 0.4
+:SLR vs vin:SweetRiesling -> 0.4
+:SLR vs vin:Sauterne -> 0.4
+:SLR vs :SweetFruit -> 0.2
+:SLR vs :Grape -> 0.2
+:SLR vs :EatingGrape -> 0.4
+:SLR vs vin:WineGrape -> 0.2
+:SLR vs :CheeseNutsDessert -> 0.4
+:SLR vs :SweetDessert -> 0.2
+:SLR vs :OtherTomatoBasedFood -> 0.2
+:SLR vs :NonSweetFruit -> 0.2
+:SLR vs :DarkMeatFowl -> 0.4
+:SLR vs :LightMeatFowl -> 0.2
+:SLR vs :PastaWithRedSauce -> 0.2
+:SLR vs :PastaWithNonSpicyRedSauce -> 0.4
+:SLR vs :PastaWithSpicyRedSauce -> 0.2
+:SLR vs :PastaWithHeavyCreamSauce -> 0.4
+:SLR vs :PastaWithLightCreamSauce -> 0.2
+:SLR vs :RedMeat -> 0.2
+:SLR vs :SpicyRedMeat -> 0.4
+:SLR vs :NonSpicyRedMeat -> 0.2
+:SLR vs :NonRedMeat -> 0.2
+:SLR vs :Shellfish -> 0.2
+:SLR vs :NonOysterShellfish -> 0.4
+:SLR vs :OysterShellfish -> 0.2
+:SLR vs :BlandFish -> 0.4
+:SLR vs :NonBlandFish -> 0.2
+:SLR vs :Fruit -> 0.4
+:SLR vs :NonConsumableThing -> 0.4
+:SLR vs :Wine -> 0.4
+:SLR vs vin:CaliforniaWine -> 0.4
+:SLR vs vin:AmericanWine -> 0.4
+:SLR vs vin:Winery -> 0.4
+:SLR vs vin:GermanWine -> 0.4
+:SLR vs vin:VintageYear -> 0.4
+:SLR vs vin:Region -> 0.4
+:SLR vs vin:TableWine -> 0.4
+:SLR vs vin:RedWine -> 0.2
+:SLR vs vin:Port -> 0.4
+:SLR vs vin:Bordeaux -> 0.2
+:SLR vs vin:Sauterne -> 0.4
+:SLR vs vin:AlsatianWine -> 0.4
+:SLR vs vin:DryWine -> 0.4
+:SLR vs vin:WhiteWine -> 0.4
+:SLR vs vin:SauvignonBlanc -> 0.4
+:SLR vs vin:WhiteTableWine -> 0.4
+:SLR vs vin:Semillon -> 0.4
+:SLR vs vin:WhiteNonSweetWine -> 0.4
+:SLR vs vin:RedTableWine -> 0.4
+:SLR vs vin:RoseWine -> 0.4
+:SLR vs vin:FullBodiedWine -> 0.4
+:SLR vs vin:Gamay -> 0.4
+:SLR vs vin:Loire -> 0.4
+:SLR vs vin:ItalianWine -> 0.2
+:SLR vs vin:Chianti -> 0.4
+:SLR vs vin:WineDescriptor -> 0.2
+:SLR vs vin:WineColor -> 0.4
+:SLR vs vin:WineBody -> 0.4
+:SLR vs vin:WineFlavor -> 0.2
+:SLR vs vin:WineSugar -> 0.2
+:SLR vs vin:FrenchWine -> 0.4
+:SLR vs vin:DryRedWine -> 0.4
+:SLR vs vin:SweetWine -> 0.4
+:SLR vs vin:TexasWine -> 0.4
+:SLR vs vin:DryWhiteWine -> 0.4
+:Money vs :ConsumableThing -> 0.2
+:Money vs :Meal -> 0.2
+:Money vs :MealCourse -> 0.4
+:Money vs :Juice -> 0.2
+:Money vs vin:Wine -> 0.2
+:Money vs vin:EarlyHarvest -> 0.2
+:Money vs vin:DessertWine -> 0.2
+:Money vs vin:SweetRiesling -> 0.2
+:Money vs vin:Sauterne -> 0.2
+:Money vs :EatingGrape -> 0.2
+:Money vs vin:WineGrape -> 0.4
+:Money vs :Dessert -> 0.2
+:Money vs :CheeseNutsDessert -> 0.2
+:Money vs :SweetDessert -> 0.4
+:Money vs :OtherTomatoBasedFood -> 0.2
+:Money vs :NonSweetFruit -> 0.2
+:Money vs :DarkMeatFowl -> 0.2
+:Money vs :LightMeatFowl -> 0.4
+:Money vs :PastaWithNonSpicyRedSauce -> 0.2
+:Money vs :PastaWithSpicyRedSauce -> 0.4
+:Money vs :PastaWithWhiteSauce -> 0.2
+:Money vs :PastaWithHeavyCreamSauce -> 0.2
+:Money vs :PastaWithLightCreamSauce -> 0.4
+:Money vs :SpicyRedMeat -> 0.2
+:Money vs :NonSpicyRedMeat -> 0.4
+:Money vs :NonRedMeat -> 0.4
+:Money vs :NonOysterShellfish -> 0.2
+:Money vs :OysterShellfish -> 0.4
+:Money vs :Fish -> 0.2
+:Money vs :BlandFish -> 0.2
+:Money vs :NonBlandFish -> 0.4
+:Money vs :Fruit -> 0.6000000000000001
+:Money vs :NonConsumableThing -> 0.4
+:Money vs :Wine -> 0.4
+:Money vs vin:CaliforniaWine -> 0.4
+:Money vs vin:AmericanWine -> 0.4
+:Money vs vin:Winery -> 0.4
+:Money vs vin:GermanWine -> 0.4
+:Money vs vin:VintageYear -> 0.4
+:Money vs vin:Region -> 0.4
+:Money vs vin:TableWine -> 0.4
+:Money vs vin:RedWine -> 0.2
+:Money vs vin:Port -> 0.2
+:Money vs vin:Bordeaux -> 0.2
+:Money vs vin:Sauterne -> 0.2
+:Money vs vin:AlsatianWine -> 0.4
+:Money vs vin:DryWine -> 0.4
+:Money vs vin:WhiteWine -> 0.4
+:Money vs vin:SauvignonBlanc -> 0.4
+:Money vs vin:WhiteTableWine -> 0.4
+:Money vs vin:Semillon -> 0.4
+:Money vs vin:WhiteNonSweetWine -> 0.4
+:Money vs vin:RedTableWine -> 0.4
+:Money vs vin:RoseWine -> 0.4
+:Money vs vin:FullBodiedWine -> 0.4
+:Money vs vin:Gamay -> 0.4
+:Money vs vin:Loire -> 0.4
+:Money vs vin:ItalianWine -> 0.2
+:Money vs vin:Chianti -> 0.2
+:Money vs vin:WineDescriptor -> 0.2
+:Money vs vin:WineColor -> 0.2
+:Money vs vin:WineTaste -> 0.2
+:Money vs vin:WineBody -> 0.2
+:Money vs vin:WineFlavor -> 0.4
+:Money vs vin:WineSugar -> 0.2
+:Money vs vin:FrenchWine -> 0.4
+:Money vs vin:DryRedWine -> 0.4
+:Money vs vin:SweetWine -> 0.4
+:Money vs vin:TexasWine -> 0.4
+:Money vs vin:DryWhiteWine -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs :ConsumableThing -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs :Meal -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs :MealCourse -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs :PotableLiquid -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs :Juice -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs vin:EarlyHarvest -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs vin:SweetRiesling -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs vin:LateHarvest -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs vin:Sauterne -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs :EatingGrape -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs vin:WineGrape -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs :CheeseNutsDessert -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs :SweetDessert -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs :OtherTomatoBasedFood -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs :NonSweetFruit -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs :DarkMeatFowl -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs :LightMeatFowl -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs :PastaWithNonSpicyRedSauce -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs :PastaWithSpicyRedSauce -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs :PastaWithHeavyCreamSauce -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs :PastaWithLightCreamSauce -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs :SpicyRedMeat -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs :NonSpicyRedMeat -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs :NonRedMeat -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs :NonOysterShellfish -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs :OysterShellfish -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs :BlandFish -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs :NonBlandFish -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs :Fruit -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs :NonConsumableThing -> 0.6000000000000001
+:BodyWithNonAdjustableShutterSpeed vs :Wine -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:CaliforniaWine -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:AmericanWine -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:Winery -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:GermanWine -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:VintageYear -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:Region -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:TableWine -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:RedWine -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs vin:Port -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs vin:Bordeaux -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs vin:Sauterne -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs vin:AlsatianWine -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:DryWine -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:WhiteWine -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:SauvignonBlanc -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:WhiteTableWine -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:Semillon -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:WhiteNonSweetWine -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:RedTableWine -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:RoseWine -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:FullBodiedWine -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:Gamay -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:Loire -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:ItalianWine -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs vin:Chianti -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs vin:WineDescriptor -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs vin:WineColor -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs vin:WineBody -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs vin:WineFlavor -> 0.2
+:BodyWithNonAdjustableShutterSpeed vs vin:WineSugar -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:FrenchWine -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:DryRedWine -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:SweetWine -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:TexasWine -> 0.4
+:BodyWithNonAdjustableShutterSpeed vs vin:DryWhiteWine -> 0.4
+:Range vs :ConsumableThing -> 0.2
+:Range vs :Meal -> 0.2
+:Range vs :MealCourse -> 0.2
+:Range vs :Juice -> 0.2
+:Range vs vin:EarlyHarvest -> 0.2
+:Range vs vin:SweetRiesling -> 0.2
+:Range vs vin:Sauterne -> 0.2
+:Range vs :EdibleThing -> 0.2
+:Range vs :EatingGrape -> 0.2
+:Range vs vin:WineGrape -> 0.2
+:Range vs :CheeseNutsDessert -> 0.2
+:Range vs :SweetDessert -> 0.2
+:Range vs :OtherTomatoBasedFood -> 0.2
+:Range vs :NonSweetFruit -> 0.4
+:Range vs :DarkMeatFowl -> 0.2
+:Range vs :LightMeatFowl -> 0.2
+:Range vs :PastaWithNonSpicyRedSauce -> 0.2
+:Range vs :PastaWithSpicyRedSauce -> 0.2
+:Range vs :PastaWithHeavyCreamSauce -> 0.2
+:Range vs :PastaWithLightCreamSauce -> 0.2
+:Range vs :SpicyRedMeat -> 0.2
+:Range vs :NonSpicyRedMeat -> 0.2
+:Range vs :NonRedMeat -> 0.2
+:Range vs :NonOysterShellfish -> 0.2
+:Range vs :OysterShellfish -> 0.2
+:Range vs :BlandFish -> 0.2
+:Range vs :NonBlandFish -> 0.2
+:Range vs :Fruit -> 0.4
+:Range vs :NonConsumableThing -> 0.4
+:Range vs :Wine -> 0.6000000000000001
+:Range vs vin:CaliforniaWine -> 0.4
+:Range vs vin:AmericanWine -> 0.4
+:Range vs vin:Winery -> 0.4
+:Range vs vin:GermanWine -> 0.4
+:Range vs vin:VintageYear -> 0.4
+:Range vs vin:Region -> 0.4
+:Range vs vin:TableWine -> 0.4
+:Range vs vin:RedWine -> 0.2
+:Range vs vin:Port -> 0.2
+:Range vs vin:Bordeaux -> 0.2
+:Range vs vin:Sauterne -> 0.2
+:Range vs vin:AlsatianWine -> 0.4
+:Range vs vin:DryWine -> 0.4
+:Range vs vin:WhiteWine -> 0.4
+:Range vs vin:SauvignonBlanc -> 0.4
+:Range vs vin:WhiteTableWine -> 0.4
+:Range vs vin:Semillon -> 0.4
+:Range vs vin:WhiteNonSweetWine -> 0.4
+:Range vs vin:RedTableWine -> 0.4
+:Range vs vin:RoseWine -> 0.4
+:Range vs vin:FullBodiedWine -> 0.4
+:Range vs vin:Gamay -> 0.4
+:Range vs vin:Loire -> 0.4
+:Range vs vin:ItalianWine -> 0.2
+:Range vs vin:Chianti -> 0.2
+:Range vs vin:WineDescriptor -> 0.2
+:Range vs vin:WineColor -> 0.2
+:Range vs vin:WineBody -> 0.2
+:Range vs vin:WineFlavor -> 0.2
+:Range vs vin:WineSugar -> 0.2
+:Range vs vin:FrenchWine -> 0.4
+:Range vs vin:DryRedWine -> 0.4
+:Range vs vin:SweetWine -> 0.4
+:Range vs vin:TexasWine -> 0.4
+:Range vs vin:DryWhiteWine -> 0.4
+:Window vs :ConsumableThing -> 0.2
+:Window vs :Meal -> 0.2
+:Window vs :MealCourse -> 0.2
+:Window vs :Juice -> 0.2
+:Window vs vin:EarlyHarvest -> 0.2
+:Window vs vin:SweetRiesling -> 0.2
+:Window vs vin:Sauterne -> 0.2
+:Window vs :EatingGrape -> 0.2
+:Window vs vin:WineGrape -> 0.2
+:Window vs :CheeseNutsDessert -> 0.2
+:Window vs :SweetDessert -> 0.2
+:Window vs :OtherTomatoBasedFood -> 0.2
+:Window vs :NonSweetFruit -> 0.2
+:Window vs :Fowl -> 0.2
+:Window vs :DarkMeatFowl -> 0.2
+:Window vs :LightMeatFowl -> 0.2
+:Window vs :PastaWithNonSpicyRedSauce -> 0.2
+:Window vs :PastaWithSpicyRedSauce -> 0.2
+:Window vs :PastaWithHeavyCreamSauce -> 0.2
+:Window vs :PastaWithLightCreamSauce -> 0.2
+:Window vs :SpicyRedMeat -> 0.2
+:Window vs :NonSpicyRedMeat -> 0.2
+:Window vs :NonRedMeat -> 0.2
+:Window vs :NonOysterShellfish -> 0.2
+:Window vs :OysterShellfish -> 0.2
+:Window vs :BlandFish -> 0.2
+:Window vs :NonBlandFish -> 0.2
+:Window vs :Fruit -> 0.4
+:Window vs :NonConsumableThing -> 0.4
+:Window vs :Wine -> 0.4
+:Window vs vin:CaliforniaWine -> 0.6000000000000001
+:Window vs vin:AmericanWine -> 0.4
+:Window vs vin:Winery -> 0.4
+:Window vs vin:GermanWine -> 0.4
+:Window vs vin:VintageYear -> 0.4
+:Window vs vin:Region -> 0.4
+:Window vs vin:TableWine -> 0.4
+:Window vs vin:RedWine -> 0.2
+:Window vs vin:Port -> 0.2
+:Window vs vin:Bordeaux -> 0.2
+:Window vs vin:Sauterne -> 0.2
+:Window vs vin:AlsatianWine -> 0.4
+:Window vs vin:DryWine -> 0.4
+:Window vs vin:WhiteWine -> 0.4
+:Window vs vin:SauvignonBlanc -> 0.4
+:Window vs vin:WhiteTableWine -> 0.4
+:Window vs vin:Semillon -> 0.4
+:Window vs vin:WhiteNonSweetWine -> 0.4
+:Window vs vin:RedTableWine -> 0.4
+:Window vs vin:RoseWine -> 0.4
+:Window vs vin:FullBodiedWine -> 0.4
+:Window vs vin:Gamay -> 0.4
+:Window vs vin:Loire -> 0.4
+:Window vs vin:ItalianWine -> 0.2
+:Window vs vin:Chianti -> 0.2
+:Window vs vin:WineDescriptor -> 0.2
+:Window vs vin:WineColor -> 0.2
+:Window vs vin:WineBody -> 0.2
+:Window vs vin:WineFlavor -> 0.2
+:Window vs vin:WineSugar -> 0.2
+:Window vs vin:FrenchWine -> 0.4
+:Window vs vin:DryRedWine -> 0.4
+:Window vs vin:SweetWine -> 0.4
+:Window vs vin:TexasWine -> 0.4
+:Window vs vin:DryWhiteWine -> 0.4
+:PurchaseableItem vs :ConsumableThing -> 0.2
+:PurchaseableItem vs vin:Wine -> 0.2
+:PurchaseableItem vs :Pasta -> 0.2
+:PurchaseableItem vs :Fruit -> 0.2
+:PurchaseableItem vs :NonConsumableThing -> 0.2
+:PurchaseableItem vs :Wine -> 0.2
+:PurchaseableItem vs vin:CaliforniaWine -> 0.2
+:PurchaseableItem vs vin:AmericanWine -> 0.4
+:PurchaseableItem vs vin:Winery -> 0.2
+:PurchaseableItem vs vin:GermanWine -> 0.2
+:PurchaseableItem vs vin:VintageYear -> 0.2
+:PurchaseableItem vs vin:Region -> 0.2
+:PurchaseableItem vs vin:TableWine -> 0.2
+:PurchaseableItem vs vin:RedWine -> 0.2
+:PurchaseableItem vs vin:Bordeaux -> 0.2
+:PurchaseableItem vs vin:AlsatianWine -> 0.2
+:PurchaseableItem vs vin:DryWine -> 0.2
+:PurchaseableItem vs vin:WhiteWine -> 0.2
+:PurchaseableItem vs vin:SauvignonBlanc -> 0.2
+:PurchaseableItem vs vin:WhiteTableWine -> 0.2
+:PurchaseableItem vs vin:Semillon -> 0.2
+:PurchaseableItem vs vin:WhiteNonSweetWine -> 0.2
+:PurchaseableItem vs vin:RedTableWine -> 0.2
+:PurchaseableItem vs vin:RoseWine -> 0.2
+:PurchaseableItem vs vin:FullBodiedWine -> 0.2
+:PurchaseableItem vs vin:Gamay -> 0.2
+:PurchaseableItem vs vin:Loire -> 0.2
+:PurchaseableItem vs vin:ItalianWine -> 0.2
+:PurchaseableItem vs vin:WineDescriptor -> 0.2
+:PurchaseableItem vs vin:WineTaste -> 0.2
+:PurchaseableItem vs vin:FrenchWine -> 0.2
+:PurchaseableItem vs vin:DryRedWine -> 0.2
+:PurchaseableItem vs vin:SweetWine -> 0.2
+:PurchaseableItem vs vin:TexasWine -> 0.2
+:PurchaseableItem vs vin:DryWhiteWine -> 0.2
+:Camera vs :ConsumableThing -> 0.2
+:Camera vs :Meal -> 0.4
+:Camera vs :MealCourse -> 0.2
+:Camera vs :PotableLiquid -> 0.4
+:Camera vs :Juice -> 0.2
+:Camera vs vin:EarlyHarvest -> 0.4
+:Camera vs vin:DessertWine -> 0.2
+:Camera vs vin:SweetRiesling -> 0.2
+:Camera vs vin:LateHarvest -> 0.2
+:Camera vs vin:Sauterne -> 0.2
+:Camera vs :EdibleThing -> 0.2
+:Camera vs :SweetFruit -> 0.2
+:Camera vs :Grape -> 0.4
+:Camera vs :EatingGrape -> 0.2
+:Camera vs :Dessert -> 0.2
+:Camera vs :CheeseNutsDessert -> 0.2
+:Camera vs :Fowl -> 0.2
+:Camera vs :DarkMeatFowl -> 0.2
+:Camera vs :Pasta -> 0.2
+:Camera vs :PastaWithRedSauce -> 0.4
+:Camera vs :PastaWithNonSpicyRedSauce -> 0.2
+:Camera vs :PastaWithWhiteSauce -> 0.2
+:Camera vs :PastaWithHeavyCreamSauce -> 0.2
+:Camera vs :Meat -> 0.2
+:Camera vs :RedMeat -> 0.4
+:Camera vs :SpicyRedMeat -> 0.2
+:Camera vs :Seafood -> 0.2
+:Camera vs :Shellfish -> 0.4
+:Camera vs :NonOysterShellfish -> 0.2
+:Camera vs :Fish -> 0.2
+:Camera vs :BlandFish -> 0.2
+:Camera vs vin:Port -> 0.4
+:Camera vs vin:Sauterne -> 0.4
+:Camera vs vin:Chianti -> 0.4
+:Camera vs vin:WineDescriptor -> 0.2
+:Camera vs vin:WineColor -> 0.4
+:Camera vs vin:WineTaste -> 0.2
+:Camera vs vin:WineBody -> 0.4
+:Camera vs vin:WineFlavor -> 0.2
+:Camera vs vin:WineSugar -> 0.2
+:Digital vs :ConsumableThing -> 0.2
+:Digital vs :Meal -> 0.4
+:Digital vs :MealCourse -> 0.2
+:Digital vs :Juice -> 0.8
+:Digital vs vin:Wine -> 0.4
+:Digital vs vin:EarlyHarvest -> 0.4
+:Digital vs vin:SweetRiesling -> 0.4
+:Digital vs vin:Sauterne -> 0.4
+:Digital vs :SweetFruit -> 0.4
+:Digital vs :Grape -> 0.2
+:Digital vs :EatingGrape -> 0.6000000000000001
+:Digital vs vin:WineGrape -> 0.4
+:Digital vs :Dessert -> 0.2
+:Digital vs :CheeseNutsDessert -> 0.6000000000000001
+:Digital vs :SweetDessert -> 0.4
+:Digital vs :OtherTomatoBasedFood -> 0.4
+:Digital vs :NonSweetFruit -> 0.4
+:Digital vs :Fowl -> 0.2
+:Digital vs :DarkMeatFowl -> 0.6000000000000001
+:Digital vs :LightMeatFowl -> 0.4
+:Digital vs :Pasta -> 0.2
+:Digital vs :PastaWithRedSauce -> 0.4
+:Digital vs :PastaWithNonSpicyRedSauce -> 0.6000000000000001
+:Digital vs :PastaWithSpicyRedSauce -> 0.4
+:Digital vs :PastaWithWhiteSauce -> 0.2
+:Digital vs :PastaWithHeavyCreamSauce -> 0.6000000000000001
+:Digital vs :PastaWithLightCreamSauce -> 0.4
+:Digital vs :Meat -> 0.2
+:Digital vs :RedMeat -> 0.4
+:Digital vs :SpicyRedMeat -> 0.6000000000000001
+:Digital vs :NonSpicyRedMeat -> 0.4
+:Digital vs :NonRedMeat -> 0.4
+:Digital vs :Seafood -> 0.2
+:Digital vs :Shellfish -> 0.4
+:Digital vs :NonOysterShellfish -> 0.6000000000000001
+:Digital vs :OysterShellfish -> 0.4
+:Digital vs :Fish -> 0.2
+:Digital vs :BlandFish -> 0.6000000000000001
+:Digital vs :NonBlandFish -> 0.4
+:Digital vs :Fruit -> 0.2
+:Digital vs :NonConsumableThing -> 0.2
+:Digital vs :Wine -> 0.2
+:Digital vs vin:CaliforniaWine -> 0.2
+:Digital vs vin:AmericanWine -> 0.2
+:Digital vs vin:Winery -> 0.2
+:Digital vs vin:GermanWine -> 0.2
+:Digital vs vin:VintageYear -> 0.2
+:Digital vs vin:Region -> 0.2
+:Digital vs vin:TableWine -> 0.2
+:Digital vs vin:Port -> 0.4
+:Digital vs vin:Sauterne -> 0.4
+:Digital vs vin:AlsatianWine -> 0.2
+:Digital vs vin:DryWine -> 0.2
+:Digital vs vin:WhiteWine -> 0.2
+:Digital vs vin:SauvignonBlanc -> 0.2
+:Digital vs vin:WhiteTableWine -> 0.2
+:Digital vs vin:Semillon -> 0.2
+:Digital vs vin:WhiteNonSweetWine -> 0.2
+:Digital vs vin:RedTableWine -> 0.2
+:Digital vs vin:RoseWine -> 0.2
+:Digital vs vin:FullBodiedWine -> 0.2
+:Digital vs vin:Gamay -> 0.2
+:Digital vs vin:Loire -> 0.2
+:Digital vs vin:Chianti -> 0.4
+:Digital vs vin:WineColor -> 0.6000000000000001
+:Digital vs vin:WineTaste -> 0.2
+:Digital vs vin:WineBody -> 0.6000000000000001
+:Digital vs vin:WineFlavor -> 0.4
+:Digital vs vin:WineSugar -> 0.4
+:Digital vs vin:FrenchWine -> 0.2
+:Digital vs vin:DryRedWine -> 0.2
+:Digital vs vin:SweetWine -> 0.2
+:Digital vs vin:TexasWine -> 0.2
+:Digital vs vin:DryWhiteWine -> 0.2
+:Large-Format vs :Meal -> 0.2
+:Large-Format vs :MealCourse -> 0.4
+:Large-Format vs :Juice -> 0.6000000000000001
+:Large-Format vs vin:Wine -> 0.6000000000000001
+:Large-Format vs vin:EarlyHarvest -> 0.2
+:Large-Format vs vin:DessertWine -> 0.2
+:Large-Format vs vin:SweetRiesling -> 0.2
+:Large-Format vs vin:Sauterne -> 0.2
+:Large-Format vs :SweetFruit -> 0.2
+:Large-Format vs :EatingGrape -> 0.4
+:Large-Format vs vin:WineGrape -> 0.6000000000000001
+:Large-Format vs :Dessert -> 0.4
+:Large-Format vs :CheeseNutsDessert -> 0.4
+:Large-Format vs :SweetDessert -> 0.6000000000000001
+:Large-Format vs :OtherTomatoBasedFood -> 0.4
+:Large-Format vs :NonSweetFruit -> 0.4
+:Large-Format vs :Fowl -> 0.2
+:Large-Format vs :DarkMeatFowl -> 0.4
+:Large-Format vs :LightMeatFowl -> 0.6000000000000001
+:Large-Format vs :Pasta -> 0.2
+:Large-Format vs :PastaWithRedSauce -> 0.2
+:Large-Format vs :PastaWithNonSpicyRedSauce -> 0.4
+:Large-Format vs :PastaWithSpicyRedSauce -> 0.6000000000000001
+:Large-Format vs :PastaWithWhiteSauce -> 0.4
+:Large-Format vs :PastaWithHeavyCreamSauce -> 0.4
+:Large-Format vs :PastaWithLightCreamSauce -> 0.6000000000000001
+:Large-Format vs :Meat -> 0.2
+:Large-Format vs :RedMeat -> 0.2
+:Large-Format vs :SpicyRedMeat -> 0.4
+:Large-Format vs :NonSpicyRedMeat -> 0.6000000000000001
+:Large-Format vs :NonRedMeat -> 0.6000000000000001
+:Large-Format vs :Seafood -> 0.2
+:Large-Format vs :Shellfish -> 0.2
+:Large-Format vs :NonOysterShellfish -> 0.4
+:Large-Format vs :OysterShellfish -> 0.6000000000000001
+:Large-Format vs :Fish -> 0.4
+:Large-Format vs :BlandFish -> 0.4
+:Large-Format vs :NonBlandFish -> 0.6000000000000001
+:Large-Format vs :Fruit -> 0.4
+:Large-Format vs :NonConsumableThing -> 0.2
+:Large-Format vs :Wine -> 0.2
+:Large-Format vs vin:CaliforniaWine -> 0.2
+:Large-Format vs vin:AmericanWine -> 0.2
+:Large-Format vs vin:Winery -> 0.2
+:Large-Format vs vin:GermanWine -> 0.2
+:Large-Format vs vin:VintageYear -> 0.2
+:Large-Format vs vin:Region -> 0.2
+:Large-Format vs vin:TableWine -> 0.2
+:Large-Format vs vin:Port -> 0.2
+:Large-Format vs vin:Sauterne -> 0.2
+:Large-Format vs vin:AlsatianWine -> 0.2
+:Large-Format vs vin:DryWine -> 0.2
+:Large-Format vs vin:WhiteWine -> 0.2
+:Large-Format vs vin:SauvignonBlanc -> 0.2
+:Large-Format vs vin:WhiteTableWine -> 0.2
+:Large-Format vs vin:Semillon -> 0.2
+:Large-Format vs vin:WhiteNonSweetWine -> 0.2
+:Large-Format vs vin:RedTableWine -> 0.2
+:Large-Format vs vin:RoseWine -> 0.2
+:Large-Format vs vin:FullBodiedWine -> 0.2
+:Large-Format vs vin:Gamay -> 0.2
+:Large-Format vs vin:Loire -> 0.2
+:Large-Format vs vin:Chianti -> 0.2
+:Large-Format vs vin:WineColor -> 0.4
+:Large-Format vs vin:WineTaste -> 0.4
+:Large-Format vs vin:WineBody -> 0.4
+:Large-Format vs vin:WineFlavor -> 0.6000000000000001
+:Large-Format vs vin:WineSugar -> 0.4
+:Large-Format vs vin:FrenchWine -> 0.2
+:Large-Format vs vin:DryRedWine -> 0.2
+:Large-Format vs vin:SweetWine -> 0.2
+:Large-Format vs vin:TexasWine -> 0.2
+:Large-Format vs vin:DryWhiteWine -> 0.2
+:Lens vs :Meal -> 0.4
+:Lens vs :MealCourse -> 0.6000000000000001
+:Lens vs :PotableLiquid -> 0.2
+:Lens vs :Juice -> 0.2
+:Lens vs vin:Wine -> 0.2
+:Lens vs vin:EarlyHarvest -> 0.4
+:Lens vs vin:DessertWine -> 0.4
+:Lens vs vin:SweetRiesling -> 0.2
+:Lens vs vin:LateHarvest -> 0.2
+:Lens vs vin:Sauterne -> 0.2
+:Lens vs :EdibleThing -> 0.2
+:Lens vs :EatingGrape -> 0.2
+:Lens vs vin:WineGrape -> 0.4
+:Lens vs :Dessert -> 0.2
+:Lens vs :CheeseNutsDessert -> 0.2
+:Lens vs :SweetDessert -> 0.4
+:Lens vs :OtherTomatoBasedFood -> 0.2
+:Lens vs :NonSweetFruit -> 0.2
+:Lens vs :DarkMeatFowl -> 0.2
+:Lens vs :LightMeatFowl -> 0.4
+:Lens vs :PastaWithNonSpicyRedSauce -> 0.2
+:Lens vs :PastaWithSpicyRedSauce -> 0.4
+:Lens vs :PastaWithWhiteSauce -> 0.2
+:Lens vs :PastaWithHeavyCreamSauce -> 0.2
+:Lens vs :PastaWithLightCreamSauce -> 0.4
+:Lens vs :SpicyRedMeat -> 0.2
+:Lens vs :NonSpicyRedMeat -> 0.4
+:Lens vs :NonRedMeat -> 0.4
+:Lens vs :NonOysterShellfish -> 0.2
+:Lens vs :OysterShellfish -> 0.4
+:Lens vs :Fish -> 0.2
+:Lens vs :BlandFish -> 0.2
+:Lens vs :NonBlandFish -> 0.4
+:Lens vs :Fruit -> 0.4
+:Lens vs :NonConsumableThing -> 0.2
+:Lens vs :Wine -> 0.2
+:Lens vs vin:CaliforniaWine -> 0.2
+:Lens vs vin:AmericanWine -> 0.2
+:Lens vs vin:Winery -> 0.2
+:Lens vs vin:GermanWine -> 0.2
+:Lens vs vin:VintageYear -> 0.2
+:Lens vs vin:Region -> 0.2
+:Lens vs vin:TableWine -> 0.2
+:Lens vs vin:Port -> 0.4
+:Lens vs vin:Sauterne -> 0.4
+:Lens vs vin:AlsatianWine -> 0.2
+:Lens vs vin:DryWine -> 0.2
+:Lens vs vin:WhiteWine -> 0.2
+:Lens vs vin:SauvignonBlanc -> 0.2
+:Lens vs vin:WhiteTableWine -> 0.2
+:Lens vs vin:Semillon -> 0.2
+:Lens vs vin:WhiteNonSweetWine -> 0.2
+:Lens vs vin:RedTableWine -> 0.2
+:Lens vs vin:RoseWine -> 0.2
+:Lens vs vin:FullBodiedWine -> 0.2
+:Lens vs vin:Gamay -> 0.2
+:Lens vs vin:Loire -> 0.2
+:Lens vs vin:Chianti -> 0.4
+:Lens vs vin:WineColor -> 0.4
+:Lens vs vin:WineTaste -> 0.4
+:Lens vs vin:WineBody -> 0.4
+:Lens vs vin:WineFlavor -> 0.6000000000000001
+:Lens vs vin:WineSugar -> 0.4
+:Lens vs vin:FrenchWine -> 0.2
+:Lens vs vin:DryRedWine -> 0.2
+:Lens vs vin:SweetWine -> 0.2
+:Lens vs vin:TexasWine -> 0.2
+:Lens vs vin:DryWhiteWine -> 0.2
+:Body vs :Meal -> 0.4
+:Body vs :MealCourse -> 0.4
+:Body vs :PotableLiquid -> 0.4
+:Body vs :Juice -> 0.2
+:Body vs vin:EarlyHarvest -> 0.4
+:Body vs vin:DessertWine -> 0.2
+:Body vs vin:SweetRiesling -> 0.2
+:Body vs vin:LateHarvest -> 0.4
+:Body vs vin:Sauterne -> 0.2
+:Body vs :EdibleThing -> 0.2
+:Body vs :EatingGrape -> 0.2
+:Body vs vin:WineGrape -> 0.2
+:Body vs :CheeseNutsDessert -> 0.2
+:Body vs :SweetDessert -> 0.2
+:Body vs :OtherTomatoBasedFood -> 0.4
+:Body vs :NonSweetFruit -> 0.2
+:Body vs :DarkMeatFowl -> 0.2
+:Body vs :LightMeatFowl -> 0.2
+:Body vs :PastaWithNonSpicyRedSauce -> 0.2
+:Body vs :PastaWithSpicyRedSauce -> 0.2
+:Body vs :PastaWithHeavyCreamSauce -> 0.2
+:Body vs :PastaWithLightCreamSauce -> 0.2
+:Body vs :SpicyRedMeat -> 0.2
+:Body vs :NonSpicyRedMeat -> 0.2
+:Body vs :NonRedMeat -> 0.2
+:Body vs :NonOysterShellfish -> 0.2
+:Body vs :OysterShellfish -> 0.2
+:Body vs :BlandFish -> 0.2
+:Body vs :NonBlandFish -> 0.2
+:Body vs :Fruit -> 0.2
+:Body vs :NonConsumableThing -> 0.4
+:Body vs :Wine -> 0.2
+:Body vs vin:CaliforniaWine -> 0.2
+:Body vs vin:AmericanWine -> 0.2
+:Body vs vin:Winery -> 0.2
+:Body vs vin:GermanWine -> 0.2
+:Body vs vin:VintageYear -> 0.2
+:Body vs vin:Region -> 0.2
+:Body vs vin:TableWine -> 0.2
+:Body vs vin:Port -> 0.4
+:Body vs vin:Sauterne -> 0.4
+:Body vs vin:AlsatianWine -> 0.2
+:Body vs vin:DryWine -> 0.2
+:Body vs vin:WhiteWine -> 0.2
+:Body vs vin:SauvignonBlanc -> 0.2
+:Body vs vin:WhiteTableWine -> 0.2
+:Body vs vin:Semillon -> 0.2
+:Body vs vin:WhiteNonSweetWine -> 0.2
+:Body vs vin:RedTableWine -> 0.2
+:Body vs vin:RoseWine -> 0.2
+:Body vs vin:FullBodiedWine -> 0.2
+:Body vs vin:Gamay -> 0.2
+:Body vs vin:Loire -> 0.2
+:Body vs vin:Chianti -> 0.4
+:Body vs vin:WineColor -> 0.4
+:Body vs vin:WineTaste -> 0.2
+:Body vs vin:WineBody -> 0.4
+:Body vs vin:WineFlavor -> 0.4
+:Body vs vin:WineSugar -> 0.6000000000000001
+:Body vs vin:FrenchWine -> 0.2
+:Body vs vin:DryRedWine -> 0.2
+:Body vs vin:SweetWine -> 0.2
+:Body vs vin:TexasWine -> 0.2
+:Body vs vin:DryWhiteWine -> 0.2
+:Viewer vs :ConsumableThing -> 0.2
+:Viewer vs :Meal -> 0.2
+:Viewer vs :MealCourse -> 0.2
+:Viewer vs :Juice -> 0.2
+:Viewer vs vin:EarlyHarvest -> 0.2
+:Viewer vs vin:SweetRiesling -> 0.2
+:Viewer vs vin:Sauterne -> 0.2
+:Viewer vs :EatingGrape -> 0.2
+:Viewer vs vin:WineGrape -> 0.2
+:Viewer vs :CheeseNutsDessert -> 0.2
+:Viewer vs :SweetDessert -> 0.2
+:Viewer vs :OtherTomatoBasedFood -> 0.2
+:Viewer vs :NonSweetFruit -> 0.2
+:Viewer vs :DarkMeatFowl -> 0.2
+:Viewer vs :LightMeatFowl -> 0.2
+:Viewer vs :PastaWithNonSpicyRedSauce -> 0.2
+:Viewer vs :PastaWithSpicyRedSauce -> 0.2
+:Viewer vs :PastaWithHeavyCreamSauce -> 0.2
+:Viewer vs :PastaWithLightCreamSauce -> 0.2
+:Viewer vs :Meat -> 0.2
+:Viewer vs :SpicyRedMeat -> 0.2
+:Viewer vs :NonSpicyRedMeat -> 0.2
+:Viewer vs :NonRedMeat -> 0.2
+:Viewer vs :NonOysterShellfish -> 0.2
+:Viewer vs :OysterShellfish -> 0.2
+:Viewer vs :BlandFish -> 0.2
+:Viewer vs :NonBlandFish -> 0.2
+:Viewer vs :Fruit -> 0.4
+:Viewer vs :NonConsumableThing -> 0.4
+:Viewer vs :Wine -> 0.4
+:Viewer vs vin:CaliforniaWine -> 0.4
+:Viewer vs vin:AmericanWine -> 0.4
+:Viewer vs vin:Winery -> 0.6000000000000001
+:Viewer vs vin:GermanWine -> 0.4
+:Viewer vs vin:VintageYear -> 0.4
+:Viewer vs vin:Region -> 0.4
+:Viewer vs vin:TableWine -> 0.4
+:Viewer vs vin:RedWine -> 0.2
+:Viewer vs vin:Port -> 0.2
+:Viewer vs vin:Bordeaux -> 0.2
+:Viewer vs vin:Sauterne -> 0.2
+:Viewer vs vin:AlsatianWine -> 0.4
+:Viewer vs vin:DryWine -> 0.4
+:Viewer vs vin:WhiteWine -> 0.4
+:Viewer vs vin:SauvignonBlanc -> 0.4
+:Viewer vs vin:WhiteTableWine -> 0.4
+:Viewer vs vin:Semillon -> 0.4
+:Viewer vs vin:WhiteNonSweetWine -> 0.4
+:Viewer vs vin:RedTableWine -> 0.4
+:Viewer vs vin:RoseWine -> 0.4
+:Viewer vs vin:FullBodiedWine -> 0.4
+:Viewer vs vin:Gamay -> 0.4
+:Viewer vs vin:Loire -> 0.4
+:Viewer vs vin:ItalianWine -> 0.2
+:Viewer vs vin:Chianti -> 0.2
+:Viewer vs vin:WineDescriptor -> 0.2
+:Viewer vs vin:WineColor -> 0.2
+:Viewer vs vin:WineBody -> 0.2
+:Viewer vs vin:WineFlavor -> 0.2
+:Viewer vs vin:WineSugar -> 0.2
+:Viewer vs vin:FrenchWine -> 0.4
+:Viewer vs vin:DryRedWine -> 0.4
+:Viewer vs vin:SweetWine -> 0.4
+:Viewer vs vin:TexasWine -> 0.4
+:Viewer vs vin:DryWhiteWine -> 0.4
+Structural index: 137
+Structural index: 3414

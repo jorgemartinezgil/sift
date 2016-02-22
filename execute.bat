@@ -1,0 +1,1 @@
+java -cp lib/libraries.jar;. Main ontologies/camera.owl ontologies/food.owl > results.txt
